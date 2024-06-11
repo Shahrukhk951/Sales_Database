@@ -1,0 +1,18 @@
+﻿Cus_id,Cus_Name,PRD_Team,Dep_Name,Cus_address,Contact,DISTRICT,Reg_id,PRD_id,PRD_Name,Price,DATE, Units ,ORD_id,INV_No,Distb_Name,Emp_id,First_Name
+C-101,Asif Medical Store,Pharma,Social Marketing,Malir,0333-2366934,Malir,R-106,P-101,ECP,300,01/12/2024,10,PO-101,IN-101,M&P,E-101,Saleem
+C-102,Bilal Medical Store,Pharma,Social Marketing,Nazimabad,0300-2365935,Central,R-106,P-102,Enofer,800,02/04/2024,2,PO-102,IN-102,M&P,E-102,Kamran
+C-103,Danish Medical Store,Pharma,Social Marketing,Saddar,0320-2366536,Sialkot,R-104,P-103,Femiject,150,03/06/2024,8,PO-103,IN-103,M&P,E-103,Imran
+C-104,Ali Traders,FMCG,Sicial Farnchise,Star chowk,0300-2366456,Lahore,R-104,P-104,Vical Plus,200,04/18/2024,6,PO-104,IN-104,M&P,E-104,Ali
+C-105,Hanif General Sotre,FMCG,Sicial Farnchise,Main bazar,0300-2346938,Faisalabad,R-103,P-105,Vitaferol,500,05/19/2024,12,PO-105,IN-105,M&P,E-105,Danish
+C-106,Kamran Medical Store,Pharma,Social Marketing,Star market,0300-2376939,Multan,R-105,P-106,Misotal,130,01/24/2024,34,PO-106,IN-106,M&P,E-106,Umer
+C-107,Zia Medical Store,Pharma,Social Marketing,Madina Chowk,045-2368940,Queta,R-108,P-107,Protect 05,200,02/23/2024,78,PO-107,IN-107,M&P,E-107,Bilal
+C-108,Saba Pharmacy,Pharma,Social Marketing,Fayaz Market,0300-2366541,Peshawar,R-102,P-108,Novadol,120,03/29/2024,12,PO-108,IN-108,M&P,E-108,Samina
+C-109,Bismila Traders,FMCG,Sicial Farnchise,Bilal Colony,0300-3366942,Bahawalpur,R-105,P-109,B Active,350,04/12/2024,45,PO-109,IN-109,M&P,E-109,Ejaz
+C-110,Aziz Medical Store,Pharma,Social Marketing,Chaman Colony,0333-8366943,Sukur,R-107,P-110,Micare,330,05/22/2024,78,PO-110,IN-110,M&P,E-110,Farhan
+C-111,Javed Medical Store,Pharma,Social Marketing,Baraf Depot,0300-9366944,Hyderabad,R-106,P-111,Protect 10,350,02/02/2024,90,PO-111,IN-111,M&P,E-111,Ghani
+C-112,Ghani Bakery,FMCG,Sicial Farnchise,Urdu Bazar,0300-1366945,Larkana,R-107,P-112,Zinc,160,03/30/2024,13,PO-112,IN-112,M&P,E-112,Hanif
+C-113,Farhan Pan Shop,FMCG,Sicial Farnchise,Sundas Park,0315-0366946,Rawalpindi,R-101,P-113,ORS,25,01/06/2024,43,PO-113,IN-113,M&P,E-113,Javed
+C-114,Salemmi Medical Store,Pharma,Social Marketing,Jinah Town,0300-2966947,Islamabad,R-101,P-114,Nutra Active,153,02/07/2024,56,PO-114,IN-114,M&P,E-114,Lubna
+C-115,Nasir Karyana store,FMCG,Sicial Farnchise,ABC Mill,0300-2166948,Mardan,R-102,P-115,D-Drops,225,03/02/2024,76,PO-115,IN-115,M&P,E-115,Mehwish
+C-116,Usman Medical Store,Pharma,Social Marketing,Jhanda Chowk,0316-2306949,Kasur,R-104,P-116,Feravi,690,05/02/2024,45,PO-116,IN-116,M&P,E-116,Nasir
+C-117,Latif Traders,FMCG,Sicial Farnchise,Bus stand,0300-2366050,Gujranwala,R-104,P-117,Wellma,170,05/12/2024,78,PO-117,IN-117,M&P,E-117,Perveen
